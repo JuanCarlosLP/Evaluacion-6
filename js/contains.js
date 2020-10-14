@@ -1,4 +1,4 @@
-const ages = [5, 8, 10, 34, 2, 56, 34];
+const ages = [7, 45, 34, 13];
 
 const myContains = (array, callback) => {
     for (let i = 0; i < array.length; i++) {
